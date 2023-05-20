@@ -1,0 +1,8 @@
+.login__bg{
+    background-image: url("https://media.istockphoto.com/id/1322595946/photo/woman-using-access-window-to-log-in-entering-password-on-laptop-sign-up-username-password.jpg?b=1&s=170667a&w=0&k=20&c=I6LIWxgWzTrthrIIBPVXhK242i03_XovgeAcrYtAExo=");
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
