@@ -5,6 +5,7 @@ const User = require('./models/User');
 const Message = require('./models/Message')
 const rooms = ['general', 'tech', 'finance', 'crypto'];
 const cors = require('cors');
+const BASE_URL = process.env.BASE_URL
 
 app.use(express.urlencoded({extended: true}));
 app.use(express.json());
